@@ -21,6 +21,10 @@ This is a Poker Probability Calculator built with Python and Tkinter. The applic
     pip install -r requirements.txt
     ```
 
+4. **Unzip the card files**:
+    - Unzip the `cards.zip` file provided in the repository.
+    - Place the unzipped `cards` folder in the same directory where `PokerApp.py` is located.
+
 ## Usage
 
 1. **Run the application**:
@@ -36,4 +40,3 @@ This is a Poker Probability Calculator built with Python and Tkinter. The applic
 ## License
 
 This project is licensed under the MIT License.
-
