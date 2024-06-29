@@ -1,4 +1,4 @@
-﻿import tkinter as tk
+import tkinter as tk
 from tkinter import ttk, Menu, Toplevel, messagebox
 from PIL import Image, ImageTk, ImageDraw, ImageFont
 import random
@@ -201,3 +201,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = PokerApp(root)
     root.mainloop()
+
